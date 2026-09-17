@@ -7,7 +7,7 @@
   <div style="margin-top: -80px; position: relative; z-index: 10;">
     <a href="https://sampad2006.netlify.app/">
       <!-- Tumhari Photo Neon Glow Border Ke Sath (Positioned over the banner) -->
-      <img src="https://github.com/sampadchandra/sampadchandra/issues/2" width="180" height="180" alt="Sampad Chandra" style="border-radius: 50%; border: 4px solid #00FF99; box-shadow: 0 0 25px rgba(0,255,153,0.8), 0 0 50px rgba(121,40,202,0.5);">
+      <img src="https://private-user-images.githubusercontent.com/242362022/654135129-2ff4009e-1a98-4ac7-81fa-29dfa6bc6dbc.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk2NzMwNzgsIm5iZiI6MTc4OTY3Mjc3OCwicGF0aCI6Ii8yNDIzNjIwMjIvNjU0MTM1MTI5LTJmZjQwMDllLTFhOTgtNGFjNy04MWZhLTI5ZGZhNmJjNmRiYy5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDkxNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA5MTdUMTkxOTM4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTBkNWEzMmYzMTg1ZThhMmQ1YmNmZjBkNjAyZGM3ODkwMjc1NGJlN2Q1ZWYzYzMyMDg3NDMzMTc4ZGYxOTFhYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.c-7yAreHYEpDIL6ZztyUhbSwU0EU9p3FdCd6SH6Ooos" width="180" height="180" alt="Sampad Chandra" style="border-radius: 50%; border: 4px solid #00FF99; box-shadow: 0 0 25px rgba(0,255,153,0.8), 0 0 50px rgba(121,40,202,0.5);">
     </a>
   </div>
   
