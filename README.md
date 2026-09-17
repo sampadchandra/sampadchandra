@@ -21,7 +21,7 @@
   <!-- Neon Glowing Stat Badges -->
   <p align="center">
     <a href="https://github.com/sampadchandra/followers"><img src="https://img.shields.io/github/followers/sampadchandra?style=for-the-badge&color=00ff99&logo=github&logoColor=0D1117" alt="Followers" /></a>
-    <a href="https://github.com/sampadchandra?tab=repositories"><img src="https://img.shields.io/github/repos/sampadchandra?style=for-the-badge&color=0e75b6&logo=github&logoColor=0D1117" alt="Repos" /></a>
+    <a href="https://github.com/sampadchandra?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View_All-0e75b6?style=for-the-badge&logo=github&logoColor=0D1117" alt="Repos" /></a>
     <a href="https://sampad2006.netlify.app/"><img src="https://komarev.com/ghpvc/?username=sampadchandra&label=PROFILE+VIEWS&color=8a2be2&style=for-the-badge" alt="Profile views" /></a>
   </p>
 </div>
