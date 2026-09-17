@@ -7,7 +7,7 @@
   <div style="margin-top: -80px; position: relative; z-index: 10;">
     <a href="https://sampad2006.netlify.app/">
       <!-- Tumhari Photo Neon Glow Border Ke Sath (Positioned over the banner) -->
-      <img src="blob:https://gemini.google.com/90a412dc-ebeb-4041-a2cd-e8b3255879fe" width="180" height="180" alt="Sampad Chandra" style="border-radius: 50%; border: 4px solid #00FF99; box-shadow: 0 0 25px rgba(0,255,153,0.8), 0 0 50px rgba(121,40,202,0.5);">
+      <img src="[blob:https://gemini.google.com/90a412dc-ebeb-4041-a2cd-e8b3255879fe](https://media.licdn.com/dms/image/v2/D4D35AQFqHBTUmHA19A/profile-framedphoto-shrink_400_400/B4DaCawZVKIoAU-/0/1789302773492?e=1790272800&v=beta&t=tXBm6OkKXU_hvsgrGyZ8I5uyK86_VeLm_eaXtSv9h6M)" width="180" height="180" alt="Sampad Chandra" style="border-radius: 50%; border: 4px solid #00FF99; box-shadow: 0 0 25px rgba(0,255,153,0.8), 0 0 50px rgba(121,40,202,0.5);">
     </a>
   </div>
   
