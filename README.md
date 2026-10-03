@@ -10,7 +10,6 @@
   <!-- Professional Contact & Stat Badges -->
   <a href="https://sampad2006.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-00f2fe?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:sampadchandra6@gmail.com"><img src="https://img.shields.io/badge/Email-sampadchandra6%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/sampadchandra"><img src="https://komarev.com/ghpvc/?username=sampadchandra&label=PROFILE+VIEWS&color=7928ca&style=for-the-badge" alt="Profile views" /></a>
 </div>
 
 <hr style="border: 1px solid #00f2fe; box-shadow: 0 0 10px #00f2fe; margin-top: 20px; margin-bottom: 20px;">
