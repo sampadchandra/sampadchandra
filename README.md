@@ -1,52 +1,48 @@
 <!-- 🌌 MAINFRAME HEADER 🌌 -->
-<div align="center">
-  <!-- Dynamic Futuristic Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:00f2fe,70:7928ca,100:00f2fe&height=240&section=header&text=SAMPAD%20CHANDRA&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
-  
-  <!-- Offset Profile Image for 3D Overlay Effect -->
-  <div style="margin-top: -80px; position: relative; z-index: 10;">
-    <a href="https://sampad2006.netlify.app/">
-      <!-- Tumhari Photo Neon Glow Border Ke Sath (Positioned over the banner) -->
-      <img src="https://private-user-images.githubusercontent.com/242362022/654135129-2ff4009e-1a98-4ac7-81fa-29dfa6bc6dbc.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk2NzMwNzgsIm5iZiI6MTc4OTY3Mjc3OCwicGF0aCI6Ii8yNDIzNjIwMjIvNjU0MTM1MTI5LTJmZjQwMDllLTFhOTgtNGFjNy04MWZhLTI5ZGZhNmJjNmRiYy5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDkxNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA5MTdUMTkxOTM4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTBkNWEzMmYzMTg1ZThhMmQ1YmNmZjBkNjAyZGM3ODkwMjc1NGJlN2Q1ZWYzYzMyMDg3NDMzMTc4ZGYxOTFhYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.c-7yAreHYEpDIL6ZztyUhbSwU0EU9p3FdCd6SH6Ooos" width="180" height="180" alt="Sampad Chandra" style="border-radius: 50%; border: 4px solid #00FF99; box-shadow: 0 0 25px rgba(0,255,153,0.8), 0 0 50px rgba(121,40,202,0.5);">
-    </a>
-  </div>
-  
-  <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:00f2fe,70:7928ca,100:00f2fe&height=200&section=header&text=SAMPAD%20CHANDRA&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
+<div align="center">
   <!-- Hacker Style Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=700&lines=>_Initializing+System...;>_System.out.println(%22Hi,+I'm+Sampad+Chandra%22);>_B.Tech+CSE+(AI+%26+ML)+%40+SNU;>_Frontend+Developer+%7C+AI+Enthusiast;>_Building+Futuristic+Web+Experiences;>_Access+Granted." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer+%7C+AI+Enthusiast;B.Tech+CSE+(AI+%26+ML)+%40+SNU;Building+Futuristic+Web+Experiences;Bridging+Human+Intuition+%26+AI" alt="Typing SVG" />
   
-  <br>
-
-  <!-- Neon Glowing Stat Badges -->
-  <p align="center">
-    <a href="https://github.com/sampadchandra/followers"><img src="https://img.shields.io/github/followers/sampadchandra?style=for-the-badge&color=00ff99&logo=github&logoColor=0D1117" alt="Followers" /></a>
-    <a href="https://github.com/sampadchandra?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View_All-0e75b6?style=for-the-badge&logo=github&logoColor=0D1117" alt="Repos" /></a>
-    <a href="https://sampad2006.netlify.app/"><img src="https://komarev.com/ghpvc/?username=sampadchandra&label=PROFILE+VIEWS&color=8a2be2&style=for-the-badge" alt="Profile views" /></a>
-  </p>
+  <br><br>
+  
+  <!-- Professional Contact & Stat Badges -->
+  <a href="https://sampad2006.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-00f2fe?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:sampadchandra6@gmail.com"><img src="https://img.shields.io/badge/Email-sampadchandra6%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/sampadchandra"><img src="https://komarev.com/ghpvc/?username=sampadchandra&label=PROFILE+VIEWS&color=7928ca&style=for-the-badge" alt="Profile views" /></a>
 </div>
 
-<hr style="border: 1px solid #00FF99; box-shadow: 0 0 10px #00FF99;">
+<hr style="border: 1px solid #00f2fe; box-shadow: 0 0 10px #00f2fe; margin-top: 20px; margin-bottom: 20px;">
 
-<!-- 💻 TERMINAL OUTPUT SECTION 💻 -->
-<h3 align="center"> ⚡ <code>&lt;Terminal_Session: About_Entity&gt;</code> ⚡ </h3>
+## 👨‍💻 System.out.println("About Me");
 
-<div align="center">
-  <p align="center">
-    <i>"Bridging the gap between <span style="color: #00f2fe; font-weight: bold;">Human Intuition</span> and <span style="color: #7928ca; font-weight: bold;">Artificial Intelligence</span> through code."</i>
-  </p>
+*Bridging the gap between **Human Intuition** and **Artificial Intelligence** through code.*
+
+- 🎓 **Education:** Pursuing B.Tech in Computer Science Engineering (AI & ML) at Sister Nivedita University.
+- 💼 **Experience:** Frontend Dev Intern (Algoryx & CodeAlpha) | AI Intern (Pinnacle Labs) | Data Analyst Intern.
+- 🏆 **Hackathons:** Competed in Vibe2Ship & Adobe University Hackathon.
+- 🚀 **Current Mission:** Building a comprehensive Web Development project and exploring AI integrations.
+- 🤝 **Collaboration:** Open to collaborating on innovative Web Development and Machine Learning projects.
+
+## 🛠️ Core Technologies
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
+
+## 💻 Terminal Log
 
 ```shell
 sampad@mainframe:~$ ./whoami.sh
 [+] Loading Core Data...
 [+] Establishing Secure Connection... OK.
 
-> Current_Mission:  Building the Hello World WebDevelopment Project
-> Core_Matrix:      B.Tech Computer Science Engineering (AI & ML) @ SNU
-> Experience_Log:   Frontend Dev Intern (Algoryx & CodeAlpha) | AI Intern (Pinnacle Labs) | Data Analyst Intern
-> Hackathons:       Vibe2Ship, Adobe University Hackathon
-> Focus_Nodes:      Java • Spring Boot • React • JavaScript • MySQL
-> Open_Ports:       Looking to collaborate on Web Development & AI/ML projects
+> Status:           Online & Building
+> Focus_Nodes:      Java • Spring Boot • React • JS • MySQL
 > Neural_Link:      [https://sampad2006.netlify.app/](https://sampad2006.netlify.app/)
-> Direct_Ping:      sampadchandra6@gmail.com
+> System_Message:   Always eager to learn new architectures and build scalable solutions.
