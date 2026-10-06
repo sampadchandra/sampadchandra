@@ -1,6 +1,3 @@
-<!-- 🌌 MAINFRAME HEADER 🌌 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:00f2fe,70:7928ca,100:00f2fe&height=200&section=header&text=SAMPAD%20CHANDRA&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
-
 <div align="center">
   <!-- Hacker Style Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer+%7C+AI+Enthusiast;B.Tech+CSE+(AI+%26+ML)+%40+SNU;Building+Futuristic+Web+Experiences;Bridging+Human+Intuition+%26+AI" alt="Typing SVG" />
